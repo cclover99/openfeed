@@ -6,7 +6,7 @@
 
 Full stack social media demo CRUD app written for practice. Its an old project so the file structure might be a bit messy. 
 
-Uses Nunjucks for both SSR and CSR, to be honest I don't know how the project ended up with this setup but it works well. 
+Uses Nunjucks for both SSR and CSR, to be honest I don't know how the project ended up with this setup but it works well and is fast. 
 
 ![Image](/screenshots/v5.png)
 
@@ -15,7 +15,7 @@ Clone the repo:
 ``` 
 git clone https://github.com/ccloverdev/social_media_demo.git
 ```
-Setup the server:
+Import the SQL schema:
 ```
 mysql -S SERVER_NAME -d DATABASE_NAME -U USERNAME -P PASSWORD -i "./schema.sql"
 ```
