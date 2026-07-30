@@ -4,10 +4,19 @@
 ![Docker Containers](https://img.shields.io/badge/-Docker_Containers-05122A?style=flat&logo=Docker)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
-Full stack social media demo CRUD app written for practice. Its an old project so the file structure might be a bit messy. 
+Full stack social media demo CRUD app written for practice. Uses Express. Its an old project so the file structure might be a bit messy. 
 
 Uses Nunjucks for both SSR and CSR, to be honest I don't know how the project ended up with this setup but it works well and is fast. 
 
+#### Features:  
+- Infinite scrolling  
+- Media uploads with mimetype validation
+- User profiles and profile customization
+- Different types of feeds, eg. likes, bookmarks, following.
+
+<br>
+
+## Screenshot:
 ![Image](/screenshots/v5.png)
 
 ## Installation:  
