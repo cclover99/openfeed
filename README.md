@@ -4,7 +4,9 @@
 ![Docker Containers](https://img.shields.io/badge/-Docker_Containers-05122A?style=flat&logo=Docker)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
-Full stack social media demo CRUD app written for practice. Its an old project so the file structure might be a bit messy.
+Full stack social media demo CRUD app written for practice. Its an old project so the file structure might be a bit messy. 
+
+Uses Nunjucks for both SSR and CSR, to be honest I don't know how the project ended up with this setup but it works well. 
 
 ![Image](/screenshots/v5.png)
 
