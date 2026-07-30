@@ -24,10 +24,6 @@ Clone the repo:
 ``` 
 git clone https://github.com/ccloverdev/social_media_demo.git
 ```
-Import the SQL schema:
-```
-mysql -S SERVER_NAME -d DATABASE_NAME -U USERNAME -P PASSWORD -i "./schema.sql"
-```
 Run Development:
 ```
 npm build && npm run dev
